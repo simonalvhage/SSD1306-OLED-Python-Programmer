@@ -1,1 +1,1 @@
-# SSD1306-OLED-Python-Programmer
+# SSD1306-OLED Python-Programmer
